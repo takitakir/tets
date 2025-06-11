@@ -1,26 +1,5 @@
 [
   {
-  "id": 9,
-  "episode": "Episode 05",
-  "title": "The Crisis of Ethiopian Cultural Identity in Modern Times",
-  "img": "/images/tet/pd1.jpeg",
-  "imgAlt": "A stylized image of an Ethiopian elder with traditional face markings and a modern city skyline in the background, symbolizing the clash between tradition and modernity. The text 'FYRRE PODCAST' is at the top left, 'EP 05' at the bottom left, and an arrow points to the bottom right.",
-  "date": "16 March 2022",
-  "duration": "1hr 20min",
-  "slug": "the-crisis-of-ethiopian-cultural-identity",
-  "content": [
-    {
-      "summary": "Is Ethiopia losing its cultural heritage in the face of globalization? This episode explores the tension between tradition and modernity, the erosion of indigenous values, and the struggle to preserve Ethiopian identity in a rapidly changing world.",
-      "section1": "Ethiopia, a nation with over 80 ethnic groups and ancient traditions, faces a cultural crossroads. Urbanization, Western influence, and digital globalization threaten unique customs—from Gurage rituals to Amhara poetry. Yet, young Ethiopians are caught between preserving heritage and embracing modernity.\n\nSome argue that modernization brings progress, but at what cost? Traditional coffee ceremonies fade as Starbucks culture rises. Oromo Gadaa systems weaken under centralized governance. The Amharic language battles English dominance in schools and business.\n\nIs cultural evolution inevitable, or are we abandoning what makes Ethiopia unique? Historian Dr. Selamawit Bekele warns: 'A people without roots are like trees without soil—they fall at the first storm.'",
-      "quote": [
-        "'We must not confuse development with Westernization. Ethiopia’s strength lies in balancing progress with pride in our own identity.'",
-        "Dr. Mehari Yohannes, Cultural Anthropologist"
-      ],
-      "section2": "Case studies reveal stark contrasts. In Addis Ababa, youth dismiss Eskista dance as 'old-fashioned,' while diaspora Ethiopians revive it as a symbol of pride. Meanwhile, rural elders fear the loss of Fidel (Ge’ez script) to Latin keyboards.\n\nSolutions emerge: Universities now teach Ethio-jazz alongside classical music. Apps like 'YeFidel Qwer' help children learn the ancient script. Social media movements (#BringBackHabeshaCulture) trend among Gen Z.\n\nYet challenges persist—government policies favor uniformity over regional diversity. Some see hope in Ethiopia’s 2023 UNESCO bid to safeguard intangible heritage. Artist Hiwot Amare concludes: 'Culture isn’t static; it’s a river. We must navigate its currents, not drown in them.'"
-    }
-  ]
-},
-  {
     "id": 5,
     "episode": "Episode 05",
     "title": "The Problem of today’s cultural development",
